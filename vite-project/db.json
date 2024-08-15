@@ -83,6 +83,41 @@
       "hp": 60,
       "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
       "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+    },
+    {
+      "name": "Abdullah",
+      "hp": "100000000000000000000000000000000000000000000000000000000000000000000000000",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png",
+      "id": 13
+    },
+    {
+      "name": "william ",
+      "hp": "-10000",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png",
+      "id": 14
+    },
+    {
+      "name": "Chris-the-Goat",
+      "hp": "2387527365893645861239856723986598237598762904710974923905798217497192475981269487892376597315904718924672107472398057981263984712974590739875091274987129057981274908712097689126459817290478974902719867489237590871209840972398579038749073289567109759047391287598175907195872905798237650972109579283759071097359879038572139087589073501928",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png",
+      "id": 15
+    },
+    {
+      "name": "mekhi #1 ",
+      "hp": "40",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/448.png",
+      "id": 16
+    },
+    {
+      "name": "joe",
+      "hp": "1",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/448.png",
+      "id": 17
     }
   ]
 }
